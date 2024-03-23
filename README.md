@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![<react>](https://img.shields.io/badge/React-61DAFB?style=social&logo=react&logoColor=000000)
+![<react>](https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=000000)
 
 
 <!--
