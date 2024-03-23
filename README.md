@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![<react>](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000)
+
+
 <!--
 **Trezzon/trezzon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
