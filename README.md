@@ -2,7 +2,7 @@
 
 ### A little about me
 
-💻 I am a creative and passionate Freelance Frontend Web Developer and UI/UX Designer with at least 3 years of experience in the field. I have substantial experience developing websites and web applications not just with the fundamentals, but also using frameworks such as Tailwind and Bootstrap, and React and Vue. I am very experienced with CMS development with WordPress in particular. 
+💻 I am a creative and passionate Freelance Frontend Web Developer and UI/UX Designer with at least 3 years of experience in the field. I have substantial experience developing websites and web applications not just with the fundamentals, but also using frameworks such as Tailwind and Bootstrap, and React and Vue. I am also experienced with CMS platforms such as WordPress and Joomla. 
 
 🖼️ In my free time I am passionate about art and I love to create illustrations, which I extend to my web work through creating web graphics assets such as custom images, logos, or even silly animations!
 
