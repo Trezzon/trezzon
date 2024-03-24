@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+### A little about me
+
+💻 I am a creative and passionate Freelance Frontend Web Developer and UI/UX Designer with at least 3 years of experience in the field. I have substantial experience developing websites and web applications not just with the fundamentals, but also using frameworks such as Tailwind and Bootstrap, and React and Vue. I am very experienced with CMS development with WordPress in particular. 
+
+🖼️ In my free time I am passionate about art and I love to create illustrations, which I extend to my web work through creating web graphics assets such as custom images, logos, or even silly animations!
+
+<a href="terrencejcab.com/about-me">Wanna learn more about me? Click here!</a> 
+
+### Wanna say hi?
+
+📧 The best way to contact me is through my email
+
 <!--
 **Trezzon/trezzon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +26,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<br>
+<br>
+<br>
 
 ### My Languages:
 ![<html>](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=ffffff)
