@@ -1,8 +1,8 @@
 <!-- image source: https://www.irasutoya.com/2017/03/blog-post_421.html -->
-
-### Well Hello There 👋
+<img src="https://github.com/Trezzon/trezzon/blob/main/assets/banner.svg"/>
 
 ### A little about me
+
 <img src="https://github.com/Trezzon/trezzon/blob/main/assets/turtle.png" style="width:250px" align="right"/>
 <p>
   💻 I am a creative and passionate Frontend Web Developer and UI/UX Designer with at least 3 years of experience in the field. I have substantial experience developing websites and web applications not just with the fundamentals, but also using frameworks such as Tailwind and Bootstrap, and React and Vue. I am also experienced with CMS platforms such as WordPress and Joomla. 
@@ -15,22 +15,9 @@
 
 ### Wanna say hi?
 
-📧 The best way to contact me is through my email
+The best way to contact me is through my email at
 
-<!--
-**Trezzon/trezzon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can also get in touch with me through Twitter and LinkedIn
 
 ### My Skills Showcase
 
