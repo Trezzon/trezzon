@@ -5,7 +5,7 @@
 
 <img src="https://github.com/Trezzon/trezzon/blob/main/assets/turtle.png" style="width:250px" align="right"/>
 <p>
-  💻 I am a creative and passionate Frontend Web Developer and UI/UX Designer with at least 3 years worth of experience in the field. I have substantial experience developing websites and web applications not just with the fundamentals, but also using frameworks such as Tailwind and Bootstrap, and React and Vue. I am also experienced with CMS platforms such as WordPress and Joomla. 
+  💻 I am a creative and passionate Frontend Web Developer and UI/UX Designer with at least 3 years worth of experience in the field. I have a lot of experience developing websites and web applications not just with the web fundamentals, but also using frameworks such as Tailwind and Bootstrap, and React and Vue. I am also experienced building fully custom websites utilizing with CMS platforms such as WordPress and Joomla. 
 </p>
 <p>
   🖼️ In my free time I am passionate about art and I love to create illustrations, which I extend to my web work through creating web graphics assets such as custom images, logos, or even silly animations!
@@ -13,11 +13,12 @@
 
 <a href="https://terrencejcab.com">Wanna learn more about me? See my portfolio!</a> 
 
-### Wanna say hi?
+### Get in Touch
 
-The best way to contact me is through my email at
-
-You can also get in touch with me through Twitter and LinkedIn
+<p align="center>
+  <a href="mailto:terrencejcab@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=plastic&logo=gmail&logoColor=ffffff" /></a>
+  <a href="https://terrencejcab.com"><img src="https://img.shields.io/badge/See_My_Portfolio-21759B?style=plastic&logo=wordpress&logoColor=ffffff" /></a>
+</p>
 
 ### My Skills Showcase
 
