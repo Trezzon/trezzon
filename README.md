@@ -5,7 +5,7 @@
 
 <img src="https://github.com/Trezzon/trezzon/blob/main/assets/turtle.png" style="width:250px" align="right"/>
 <p>
-  💻 I am a creative and passionate Frontend Web Developer and UI/UX Designer with at least 3 years of experience in the field. I have substantial experience developing websites and web applications not just with the fundamentals, but also using frameworks such as Tailwind and Bootstrap, and React and Vue. I am also experienced with CMS platforms such as WordPress and Joomla. 
+  💻 I am a creative and passionate Frontend Web Developer and UI/UX Designer with at least 3 years (and counting!) worth of experience in the field. I have substantial experience developing websites and web applications not just with the fundamentals, but also using frameworks such as Tailwind and Bootstrap, and React and Vue. I am also experienced with CMS platforms such as WordPress and Joomla. 
 </p>
 <p>
   🖼️ In my free time I am passionate about art and I love to create illustrations, which I extend to my web work through creating web graphics assets such as custom images, logos, or even silly animations!
