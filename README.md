@@ -15,10 +15,8 @@
 
 ### Get in Touch
 
-<p align="center>
-  <a href="mailto:terrencejcab@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=plastic&logo=gmail&logoColor=ffffff" /></a>
-  <a href="https://terrencejcab.com"><img src="https://img.shields.io/badge/See_My_Portfolio-21759B?style=plastic&logo=wordpress&logoColor=ffffff" /></a>
-</p>
+<a href="mailto:terrencejcab@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=plastic&logo=gmail&logoColor=ffffff" /></a>
+<a href="https://terrencejcab.com"><img src="https://img.shields.io/badge/See_My_Portfolio-21759B?style=plastic&logo=wordpress&logoColor=ffffff" /></a>
 
 ### My Skills Showcase
 
