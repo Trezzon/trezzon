@@ -1,17 +1,17 @@
 <!-- image source: https://www.irasutoya.com/2017/03/blog-post_421.html -->
-<img src="https://github.com/Trezzon/trezzon/blob/main/assets/turtle.png" style="width:250px"/>
 
 ### Well Hello There 👋
 
-<br>
-
 ### A little about me
-💻 I am a creative and passionate Freelance Frontend Web Developer and UI/UX Designer with at least 3 years of experience in the field. I have substantial experience developing websites and web applications not just with the fundamentals, but also using frameworks such as Tailwind and Bootstrap, and React and Vue. I am also experienced with CMS platforms such as WordPress and Joomla. 
+<img src="https://github.com/Trezzon/trezzon/blob/main/assets/turtle.png" style="width:250px" align="right"/>
+<p>
+  💻 I am a creative and passionate Freelance Frontend Web Developer and UI/UX Designer with at least 3 years of experience in the field. I have substantial experience developing websites and web applications not just with the fundamentals, but also using frameworks such as Tailwind and Bootstrap, and React and Vue. I am also experienced with CMS platforms such as WordPress and Joomla. 
+</p>
+<p>
+  🖼️ In my free time I am passionate about art and I love to create illustrations, which I extend to my web work through creating web graphics assets such as custom images, logos, or even silly animations!
+</p>
 
-🖼️ In my free time I am passionate about art and I love to create illustrations, which I extend to my web work through creating web graphics assets such as custom images, logos, or even silly animations!
-
-<a href="terrencejcab.com/about-me">Wanna learn more about me? Click here!</a> 
-
+<a href="https://terrencejcab.com">Wanna learn more about me? See my portfolio!</a> 
 
 ### Wanna say hi?
 
@@ -31,7 +31,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br>
 
 ### My Languages:
 ![<html>](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=ffffff)
