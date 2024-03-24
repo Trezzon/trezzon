@@ -1,7 +1,7 @@
-### Hi there 👋
-
 ![<react>](https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=000000)
+![<vue>](https://img.shields.io/badge/Vue-#4FC08D?style=plastic&logo=vuedotjs&logoColor=000000)
 
+### Hi there 👋
 
 <!--
 **Trezzon/trezzon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
