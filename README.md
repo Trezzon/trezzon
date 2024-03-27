@@ -8,7 +8,7 @@
   💻 I am a creative and passionate Frontend Web Developer and UI/UX Designer with at least 3 years worth of experience in the field. I have a lot of experience developing websites and web applications not just with the web fundamentals, but also using frameworks such as Tailwind and Bootstrap, and React and Vue. I am also experienced building fully custom websites on CMS platforms such as WordPress. 
 </p>
 <p>
-  🖼️ I am passionate about art and in my free time I love to create illustrations, which I extend to my web work through creating web graphic assets such as custom images, logos, or even silly animations!
+  🖼️ I am passionate about art and in my free time I love to create illustrations, which I extend to my work through creating web graphic assets such as custom images, logos, or even silly animations!
 </p>
 
 <a href="https://terrencejcab.com">Wanna learn more about me? See my portfolio!</a> 
